@@ -1,4 +1,4 @@
-Download The file "Project - Daniel Hannon - NEA Computer Science.zip"
+Download The file "Final Project.zip"
 Unzip the file.
 In your browser, open https://builds.dotnet.microsoft.com/dotnet/install/dotnet_basic_config_website.winget, This will download the dependencies.
 If this doesn't work, open PowerShell as admin, and type "winget install Microsoft.DotNet.SDK.10"
